@@ -6,8 +6,8 @@ Probably only works on mac OS.
 
 # usage
 ```bash
-# pkg arg may include /
-$ cmd <pkg>
+# pass a valid pkg like fmt or net/http
+$ ./gopkg <pkg>
 ```
 
 # todos
